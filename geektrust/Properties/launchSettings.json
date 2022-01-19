@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "geektrust": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\DalaiG\\Projects\\FamilyTree\\coding-problem-artefacts-master\\sample-io\\Family\\BD-PS1\\input1.txt\""
+    }
+  }
+}

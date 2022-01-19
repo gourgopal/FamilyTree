@@ -1,0 +1,32 @@
+﻿HAVE_KID		King Shan	MALE
+HAVE_KID		Queen Anga	FEMALE
+MARRY	King Shan	Queen	Anga
+HAVE_KID	King Shan	Chit	Male
+HAVE_KID	King Shan	Ish	Male
+HAVE_KID	King Shan	Vich	Male
+HAVE_KID	King Shan	Aras	Male
+HAVE_KID	King Shan	Satya	Female
+MARRY	Chit	Amba
+MARRY	Vich	Lika
+MARRY	Aras	Chitra
+MARRY	Satya	Vyan
+HAVE_KID	Chit	Dritha	Female
+HAVE_KID	Chit	Tritha	Female
+HAVE_KID	Chit	Vritha	Male
+MARRY	Dritha	Jaya
+HAVE_KID	Dritha	Yodhan	Male
+HAVE_KID	Vich	Vila	Female
+HAVE_KID	Vich	Chika	Female
+HAVE_KID	Aras	Jnki	Female
+HAVE_KID	Aras	Ahit	Male
+MARRY	Jnki	Arit
+HAVE_KID	Jnki	Laki	Male
+HAVE_KID	Jnki	Lavnya	Female
+HAVE_KID	Satya	Asva	Male
+HAVE_KID	Satya	Vyas	Male
+HAVE_KID	Satya	Atya	Female
+MARRY	Asva	Satvy
+HAVE_KID	Asva	Vasa	Male
+MARRY	Vyas	Krpi
+HAVE_KID	Vyas	Kriya	Male
+HAVE_KID	Vyas	Krithi	Female
